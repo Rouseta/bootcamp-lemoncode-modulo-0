@@ -66,6 +66,7 @@ body {
 }
 .shopping-footer {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-top: solid, black, 2px;
 }
 .shopping-footer > span {
   font-weight: 700;
